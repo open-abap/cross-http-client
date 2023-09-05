@@ -7,3 +7,5 @@ Which is intended to work on:
 * ABAP Cloud in SAP BTP ABAP Environment (`CL_HTTP_DESTINATION_PROVIDER`)
 * ABAP Cloud in S/4 HANA Cloud (`CL_HTTP_DESTINATION_PROVIDER`)
 * ABAP Cloud in S/4 HANA on-premise (??)
+
+extend https://github.com/sbcgua/abap-http-agent ? 
