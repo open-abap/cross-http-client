@@ -9,3 +9,5 @@ Which is intended to work on:
 * ABAP Cloud in S/4 HANA on-premise (??)
 
 extend https://github.com/sbcgua/abap-http-agent ? 
+
+server = https://github.com/open-abap/cross-http-server
